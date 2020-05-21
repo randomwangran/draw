@@ -1,0 +1,3 @@
+[submodule "logo-ideas"]
+	path = logo-ideas
+	url = git@github.com:randomwangran/logo-ideas.git
